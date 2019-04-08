@@ -31,5 +31,8 @@ There is possible evidence that cities closer to the equator are less clowdy. Th
 ![Equator](Images/Lat_windspd.png)
 
 
+Obviously we can't have negative windspead but I have more low windspeed samples than high windspeed samples. Moving from left to righ on the X axis does not indicate variation in latitude would cause higher windspead. This is another graph with a wide distribution of points.
+
+
 
 
