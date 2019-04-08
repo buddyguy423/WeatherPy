@@ -9,7 +9,7 @@ Temperature (F) vs. Latitude Observation #1
 As you move from left to right on this graph it is obivous that the data is normalized. There just happen to not be as many samples from below -50 degrees in the displayed data pull. This normalization implies that the closer you are to 0 degrees the higher Max Temps are.
 
 
-* Humidity (%) vs. Latitude: Observation #2 
+Humidity (%) vs. Latitude: Observation #2 
 ----------------------------------------------------------------------------------------------
 ![Equator](Images/Lat_Humid.png)
 
@@ -17,7 +17,7 @@ One thing that stands out right away about this graph is the amount of clusterin
 
 
 
-* Cloudiness (%) vs. Latitude: Observation #3
+Cloudiness (%) vs. Latitude: Observation #3
 ----------------------------------------------------------------------------------------------
 ![Equator](Images/Lat_cloud.png)
 
@@ -26,7 +26,7 @@ The distribution of points in this graph is fairly spread out. There are clear l
 There is possible evidence that cities closer to the equator are less clowdy. There seems to be verry little clusters close to 0 degrees 
 
 
-* Wind Speed (mph) vs. Latitude: Observation #4
+Wind Speed (mph) vs. Latitude: Observation #4
 ----------------------------------------------------------------------------------------------
 ![Equator](Images/Lat_windspd.png)
 
