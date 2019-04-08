@@ -1,11 +1,12 @@
 # Unit 6 | Assignment 
-## *WeatherPy- Observable Trends
+## WeatherPy- Observable Trends
 
 
 
-* Temperature (F) vs. Latitude Observation #1 
-![Equator](Images/Lat_Temp.png)
+Temperature (F) vs. Latitude Observation #1 
 ----------------------------------------------------------------------
+![Equator](Images/Lat_Temp.png)
+
 As you move from left to right on this graph it is obivous that the data is normalized. There just happen to not be as many samples from below -50 degrees in the displayed data pull. This normalization implies that the closer you are to 0 degrees the higher Max Temps are.
 
 
