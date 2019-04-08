@@ -1,25 +1,25 @@
 # Unit 6 | Assignment 
-## WeatherPy
+## WeatherPy- Observable Trends
 
-Observable Trends
 
-* Temperature (F) vs. Latitude
+
+* Temperature (F) vs. Latitude Observation #1 
 ![Equator](Images/Lat_Temp.png)
-observation #1: 
 
 
-* Humidity (%) vs. Latitude
+
+* Humidity (%) vs. Latitude: Observation #2 
 ![Equator](Images/Lat_Humid.png)
-observation #2: 
 
 
-* Cloudiness (%) vs. Latitude
+
+* Cloudiness (%) vs. Latitude: Observation #3
 ![Equator](Images/Lat_cloud.png)
-observation #3: 
 
 
-* Wind Speed (mph) vs. Latitude
+
+* Wind Speed (mph) vs. Latitude: Observation #4
 ![Equator](Images/Lat_windspd.png)
-observation #4: 
+
 
 
